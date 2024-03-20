@@ -24,4 +24,4 @@ def start():
     num2 = input("Введите второе число: ")
     x,y,c=inp_num(num1,num2,choice)
     print(num1,c,num2,"=",calc(x,y,c))
-#start()
+start()
